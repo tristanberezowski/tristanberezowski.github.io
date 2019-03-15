@@ -1,13 +1,13 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: https://github.com/tristanberezowski/tristanberezowski.github.io
+favicon: images/man.png
 
 # Personal info
 name: Tristan Berezowski
 title: Full Stack Web Developer | Software Developer
 email: tristanberezowski@gmail.com
 phone: 604-219-9134
-website: tristanberezowski.github.io
+# website: bere.dev
 
 # Social links
 github_username:  tristanberezowski
@@ -15,15 +15,9 @@ linkedin_username: tristanberezowski
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  I'm a full stack web developer who loves challenging logic puzzles and finding creative solutions to make a product stand out. My interest in coding begun five years ago, however my experiences learning new techniques and problem solving daily have confirmed my passion for software development. I am eager to take on opportunities to work with positive people on projects which allow me to both display my  drive and continue my learning.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -35,14 +29,14 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
