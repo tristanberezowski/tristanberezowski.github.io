@@ -2,8 +2,19 @@
 @import "button";
 @import "type";
 
+$white: #F6F8F7;
+$light-grey: #E8EDDF;
+$med-grey: #CFDBD5;
+$dark-grey: #333533;
+$yellow: #F5CB5C;
+$black: #242423;
+
+body {
+  background-color: $white;
+}
+
 ul.icons a:hover {
-  background: rgba(0, 0, 0, 0.025);
+  background: $white;
 }
 
 ul.icons li {
