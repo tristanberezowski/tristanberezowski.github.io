@@ -109,6 +109,8 @@ ul.icons a {
   h3 {
     margin-bottom: 0;
   }
+  //display: flex;
+  //justify-content: center;
 }
 
 .experience, .education, .project {
@@ -116,6 +118,10 @@ ul.icons a {
 
   .left-column {
     text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
 
     p {
       margin-bottom: 3px;

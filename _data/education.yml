@@ -1,8 +1,23 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Lighthouse Labs
+  dates: February 2019 - April 2019
+  qualification: Diploma of Web Development
   quote: >
-    Short institution or course description (optional)
+    Ten week boot-camp based in Vancouver, Canada
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    - Became excellent at learning new languages, frameworks, and concepts efficiently
+    - Learned good practices from senior developer mentors and instructors
+    - Gained permanent mentor connections
+
+- name: Simon Fraser University
+  dates: 2016 - 2018
+  qualification: Ten classes that directly improve my technical knowedge
+  quote: >
+    Computer Science and Mathematics Courses
+  description: |
+    - Experience modelling complex life systems with mathematics and software
+    - Data analysis reports using statistics and analysis on algorithm consistency,
+    efficiency, and robustness
+    - Mathematics dealing with data systems such as trees and graphs
+    - Knowledge of Discreet Mathematics, Numerical Analysis, Linear Algebra,
+     Calculus, Physics, and Computer Science

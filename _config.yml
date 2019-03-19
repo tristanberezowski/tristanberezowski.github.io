@@ -17,7 +17,7 @@ linkedin_username: tristanberezowski
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm a full stack web developer who loves challenging logic puzzles and finding creative solutions to make a product stand out. My interest in coding begun five years ago, however my experiences learning new techniques and problem solving daily have confirmed my passion for software development. I am eager to take on opportunities to work with positive people on projects which allow me to both display my  drive and continue my learning.
+  I'm a full stack web developer who loves challenging logic puzzles and finding creative solutions to make a product stand out. My interest in coding began five years ago, however my experiences learning new techniques and problem solving daily have confirmed my passion for software development. I am eager to take on opportunities to work with positive people on projects which allow me to both display my  drive and continue my learning.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
