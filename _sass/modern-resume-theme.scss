@@ -11,7 +11,9 @@ $black: #242423;
 
 body {
   background-color: $white;
+  padding: 3% 8% 0.5% 8%;
 }
+//------------------------------------Header------------------------------------
 
 ul.icons a:hover {
   background: $white;
@@ -49,12 +51,23 @@ ul.icons a {
   font-size: 1em;
   margin-bottom:20px;
   text-align: right;
+  display: flex;
+  flex-flow: column;
+  margin: 0%;
 }
 
-@media screen and (max-width: 768px) {
-  .icons {
-    text-align: center;
-  }
+// @media screen and (max-width: 768px) {
+//   .icons {
+//     text-align: center;
+//   }
+// }
+
+.header-container{
+  margin-right: 0px;
+  margin-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .header-right p {
@@ -66,8 +79,19 @@ ul.icons a {
   font-weight:500;
 }
 
+.header-right {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+
+}
+.header-text-info{
+  display: flex;
+  flex-flow: column;
+}
+
 @media screen and (max-width: 768px) {
-  .header-contianer div{
+  .header-container div{
     text-align: center;
   }
 
@@ -77,8 +101,17 @@ ul.icons a {
 
   .header-left {
     margin-top: 0px;
+    text-align: center;
   }
 }
+
+.header-left {
+  margin-top: 0px;
+}
+
+//------------------------------------Header Finish------------------------------------
+
+// -----------------------------------About Section------------------------------------
 
 .profile-img {
   width: 200px;
