@@ -1,0 +1,24 @@
+<div class="skills-container">
+  <h3>{{ site.skills_title | default: "Skills" }}</h3>
+  <section>
+    <div class="row clearfix col-md-12 top-skills">
+      {% for i in (0..3) %}
+      {% assign skill = site.data.skills[i] %}
+        <div class="skill-section">
+          {{skill.name | strip | markdownify}}
+          {{ skill.details | strip | markdownify }}
+        </div>
+      {% endfor %}
+    </div>
+    <hr>
+    <div class="bottom-skills">
+      {% for i in (4..6) %}
+      {% assign skill = site.data.skills[i] %}
+        <div class="skill-section">
+          {{skill.name | strip | markdownify}}
+          {{ skill.details | strip | markdownify }}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+</div>

@@ -30,11 +30,9 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: Skills #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+skills_title: Skills #(Use this to override about more section title)
+skills_content: | # this will include new lines to allow paragraphs
+   I am very skilled
 
 # Footer
 #footer_show_references: true

@@ -1,8 +1,50 @@
 # Skills template
-- name: Languages & Frameworks
-  github: tristanberezowski/
-  quote: >
-    JSX/React/HTML/SCSS/Node.js/WebSocket/Babel
-  description: | # this will include new lines to allow paragraphs
-    - A single page web application for users to chat online
-    - Updates in real time with all HTML components rendering with React.js
+- 
+  name: Languages
+  details: | # this will include new lines to allow paragraphs
+    - JavaScript
+    - Ruby
+    - Matlab
+    - C
+-
+  name: Project Environment
+  details: |
+    - Ruby on Rails
+    - Node.js
+    - WebSockets
+-
+  name: Front-end Tools
+  details: |
+    - React (JS and Rails)
+    - HTML (ERB, EJS)
+    - CSS / SASS
+    - JQuery
+    - BootStrap / Flexbox
+    - Photoshop Elements
+-
+  name: Other Frameworks
+  details: |
+    - JavaScript ES6
+    - KNEX.js
+    - AJAX
+    - Express.js
+    - Jekyll
+-
+  name: Databases
+  details: |
+    - PostgreSQL
+    - MongoDB
+-
+  name: Project Tools/Testing
+  details: |
+    - Rspec
+    - Capybara
+    - Database Cleaner
+    - Git / Github
+
+-
+  name: Some Experience With
+  details: |
+    - Python
+    - TypeScript
+    - C++
