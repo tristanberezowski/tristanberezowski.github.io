@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
-
 {%- include head.html -%}
 
 <body>
@@ -16,9 +15,11 @@
         {%- include skills.html -%}
       {%- endif -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
+
+      {%- if site.slider -%}
+        {%- include slider.html height="50" unit="%" transition="slide" duration="7" -%}
       {%- endif -%}
+
 
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
@@ -28,7 +29,6 @@
         {%- include education.html -%}
       {%- endif -%}
 
-    </div>
   </main>
 
   {%- include footer.html -%}

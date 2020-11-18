@@ -47,3 +47,14 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+slider:
+  text_color: black
+  shadow_color: black
+  slides: 
+    - image: "https://www.seoclerks.com/files/user/community/000/611/853/4c35d9cef7b143a4e17f4ce4e9a840a7--soccer-logo-logo-branding.1502284766.jpg"
+      slide_html: "<p>JSX/React/HTML/SCSS/Node.js/WebSocket/Babel</p>"
+    - image: "/images/profile.png"
+      slide_html: "<p>Test</p>"
+    - image: "/images/profile.png"
+      slide_html: "<p>Test</p>"

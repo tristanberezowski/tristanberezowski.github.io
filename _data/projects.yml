@@ -1,8 +1,0 @@
-# Project template
-- name: Chatty
-  github: tristanberezowski/chatty-app
-  quote: >
-    JSX/React/HTML/SCSS/Node.js/WebSocket/Babel
-  description: | # this will include new lines to allow paragraphs
-    - A single page web application for users to chat online
-    - Updates in real time with all HTML components rendering with React.js

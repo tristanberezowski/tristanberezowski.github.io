@@ -1,12 +1,12 @@
-# Experience template
-- company: Website Development
-  #link: Link to company (optional)
-  job_title: Hoochy Booch Ordering Site
-  dates: March 2019 - Present
-  #quote: >
-  # Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Freelance work that allows store owners to order online
-    - Client communication and negotiation using wire-frames
-    - In depth planning following _Principles of Project Planning_ by Don Burks
-    - Currently in the project set-up and planning phase
+# # Experience template
+# - company: Website Development
+#   #link: Link to company (optional)
+#   job_title: Hoochy Booch Ordering Site
+#   dates: March 2019 - Present
+#   #quote: >
+#   # Short description of the company (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     - Freelance work that allows store owners to order online
+#     - Client communication and negotiation using wire-frames
+#     - In depth planning following _Principles of Project Planning_ by Don Burks
+#     - Currently in the project set-up and planning phase

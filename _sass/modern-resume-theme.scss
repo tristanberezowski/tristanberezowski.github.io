@@ -21,7 +21,7 @@ ul.icons a:hover {
 
 ul.icons li {
   display: inline-block;
-  padding-left: 0.75em;
+  padding-left: 3em;
 }
 
 ul.icons a {
@@ -120,7 +120,7 @@ ul.icons a {
 .about-content{ //contains .about-text and the image
 
   display: flex;
-  align-items: center;
+  align-items: flex-end;
 
   .about-text{
     margin: 5% 0px;
@@ -195,6 +195,13 @@ ul.icons a {
 }
 
 //--------------------------------End Skills-------------------------------------
+//-------------------------------Projects---------------------------------------
+
+
+
+
+
+//-----------------------------End Projects------------------------------------
 .projects-container, .experience-container, .education-container {
   h3 {
     margin-bottom: 0;
