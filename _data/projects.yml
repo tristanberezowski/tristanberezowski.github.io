@@ -1,0 +1,29 @@
+# Education Template
+- name: Clean Spoon
+  github: https://github.com/rachelgould/clean-spoon
+  quote: >
+    Rails/React/React Router/Node.js/PSQL/axios/Babel/BootStrap
+  
+  description: | # this will include new lines to allow paragraphs
+    - A web application that allows users to track what's in their fridge and find
+    recipes based on the food you have
+    - Other features include adding missing ingredients to your shopping list, 
+    texing your shopping list to your phone, and saving favorite recipes
+    - Uses a React app with Ruby on Rails API server and uses the
+    Yummly recipe database API
+
+- name: Foody Online Ordering
+  github: https://github.com/tristanberezowski/midterm-order
+  quote: >
+      JS/EJS/SASS/BootStrap/JQuery/Express/PSQL/Node.js/KNEX.js/Twilio API
+  description: |
+    - An online ordering website for restaurants and customers to use
+    with sms notifications
+
+- name: Chatty
+  github: https://github.com/tristanberezowski/chatty-app
+  quote: >
+    JSX/React/HTML/SCSS/Node.js/WebSocket/Babel
+  description: |
+    - A single page web application that makes use of WebSockets for real time
+    chatting between users
