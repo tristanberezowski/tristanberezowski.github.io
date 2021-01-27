@@ -1,6 +1,6 @@
 # Education Template
 - name: Clean Spoon
-  github: https://github.com/rachelgould/clean-spoon
+  github: rachelgould/clean-spoon
   quote: >
     Rails/React/React Router/Node.js/PSQL/axios/Babel/BootStrap
   
@@ -13,7 +13,7 @@
     Yummly recipe database API
 
 - name: Foody Online Ordering
-  github: https://github.com/tristanberezowski/midterm-order
+  github: tristanberezowski/midterm-order
   quote: >
       JS/EJS/SASS/BootStrap/JQuery/Express/PSQL/Node.js/KNEX.js/Twilio API
   description: |
@@ -21,7 +21,7 @@
     with sms notifications
 
 - name: Chatty
-  github: https://github.com/tristanberezowski/chatty-app
+  github: tristanberezowski/chatty-app
   quote: >
     JSX/React/HTML/SCSS/Node.js/WebSocket/Babel
   description: |
