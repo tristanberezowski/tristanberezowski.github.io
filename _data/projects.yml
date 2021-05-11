@@ -8,7 +8,7 @@
     - A web application that allows users to track what's in their fridge and find
     recipes based on the food you have
     - Other features include adding missing ingredients to your shopping list, 
-    texing your shopping list to your phone, and saving favorite recipes
+    texting your shopping list to your phone, and saving favourite recipes
     - Uses a React app with Ruby on Rails API server and uses the
     Yummly recipe database API
 
